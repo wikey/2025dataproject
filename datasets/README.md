@@ -1,0 +1,1 @@
+Dataset governed by the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) as per [Airbnb source](https://insideairbnb.com/get-the-data/).
